@@ -155,9 +155,11 @@ The main objectives of this project are:
 
 # 👩‍💻 Author
 
-## **Aaru Patil**
-AI & Data Science Student  
+Aarti Patil 
+🎓 AI & Data Science Student  
 
+🔗 GitHub: [aartipatil27](https://github.com/aartipatil27)   
+ 📧 Email: aartip2705@gmail.com  
 ---
 
 # ⭐ GitHub Topics
