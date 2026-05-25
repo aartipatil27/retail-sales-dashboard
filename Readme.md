@@ -119,17 +119,17 @@ The main objectives of this project are:
 # 🖼 Dashboard Preview
 
 ## 📍 Dashboard Page 1
-![Dashboard Page 1](dashboard-page1.png)
+![Dashboard Page 1](screenshot1.png)
 
 ---
 
 ## 📍 Dashboard Page 2
-![Dashboard Page 2](dashboard-page2.png)
+![Dashboard Page 2](screenshot2.png)
 
 ---
 
 ## 📍 Dashboard Page 3
-![Dashboard Page 3](dashboard-page3.png)
+![Dashboard Page 3](screenshot3.png)
 
 ---
 
