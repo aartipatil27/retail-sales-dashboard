@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Analytics Dashboard
+# 💻 Tech Sales Dashboard
 
 <p align="center">
   <b>Interactive Business Intelligence Dashboard using Microsoft Power BI</b>
@@ -8,99 +8,102 @@
 
 # 📌 Introduction
 
-The **Retail Sales Analytics Dashboard** is a professional Business Intelligence project developed using **Microsoft Power BI** to analyze retail business performance through interactive visualizations and insightful reports.
+The **Tech Sales Dashboard** is a Business Intelligence project developed using **Microsoft Power BI** to analyze technology product sales, profitability, quantity, and brand performance through interactive visualizations.
 
-This dashboard helps businesses monitor sales trends, customer behavior, product performance, and regional insights for better decision-making.
+This dashboard enables businesses to monitor sales trends, evaluate product categories, track profitability, and gain insights into regional and supervisor-wise performance.
 
-The project demonstrates the practical implementation of:
-- Data Visualization
-- Data Analysis
-- Business Intelligence
-- Dashboard Designing
-- KPI Monitoring
+The project demonstrates practical implementation of:
+
+* Data Visualization
+* Business Intelligence
+* Data Analysis
+* KPI Monitoring
+* Dashboard Designing
 
 ---
 
 # 🚀 Project Highlights
 
-✨ Interactive and Dynamic Dashboard  
-✨ Multi-page Report Design  
-✨ Professional UI/UX Layout  
-✨ Business Performance Tracking  
-✨ Product & Customer Insights  
-✨ City-wise Sales Analysis  
-✨ Advanced Data Visualization Techniques  
+✨ Interactive Power BI Dashboard
+✨ Professional UI Design
+✨ KPI-Based Performance Tracking
+✨ Brand-wise Sales Analysis
+✨ State-wise Sales Visualization
+✨ Category Performance Monitoring
+✨ Supervisor Performance Overview
 
 ---
 
 # 📊 Key Dashboard Features
 
-## 📈 Sales Analysis
-- Track total sales performance
-- Monitor revenue trends
-- Compare category-wise sales
+## 📈 Sales Performance Analysis
 
-## 📦 Product Insights
-- Analyze top-performing product lines
-- Quantity ordered analysis
-- Product contribution tracking
+* Monitor Total Sales
+* Track Total Cost
+* Analyze Total Profit
+* Business KPI Monitoring
 
-## 👥 Customer Order Analysis
-- Customer purchasing insights
-- Order distribution analysis
-- Sales contribution by customers
+## 🖥 Product Category Insights
+
+* Quantity by Category Analysis
+* Product Performance Comparison
+* Category-wise Distribution
+
+## 🏷 Brand Analysis
+
+* Brand-wise Sales Distribution
+* Top Performing Brands
+* Market Contribution Analysis
 
 ## 🌍 Regional Analysis
-- City-wise sales comparison
-- Geographic performance visualization
-- Region-based business insights
 
-## 🎛 Interactive Controls
-- Dynamic slicers
-- Filters for better analysis
-- Easy navigation across dashboard pages
+* State-wise Sales Tracking
+* Geographic Sales Visualization
+* Regional Performance Insights
+
+## 👨‍💼 Supervisor Monitoring
+
+* Supervisor-wise Performance View
+* Team Sales Tracking
 
 ---
 
 # 🛠 Technologies Used
 
-| Technology | Purpose |
-|------------|----------|
-| Microsoft Power BI | Dashboard Development |
-| Microsoft Excel | Data Source |
-| DAX | Measures & Calculations |
-| Power Query | Data Cleaning |
-| Data Modeling | Relationship Management |
+| Technology         | Purpose                 |
+| ------------------ | ----------------------- |
+| Microsoft Power BI | Dashboard Development   |
+| Microsoft Excel    | Data Source             |
+| DAX                | Measures & Calculations |
+| Power Query        | Data Transformation     |
+| Data Modeling      | Relationship Management |
 
 ---
 
 # 📂 Dataset Information
 
-The dataset contains retail business records including:
+The dataset contains technology product sales records including:
 
-- Sales
-- Quantity Ordered
-- Product Line
-- Customer Details
-- Country
-- City
-- Order Date
-- Deal Size
-- Revenue Information
+* Product Category
+* Brand Information
+* Sales Amount
+* Cost
+* Profit
+* Quantity Sold
+* State Details
+* Supervisor Information
 
 ---
 
 # 📈 Dashboard Visualizations
 
-| Visualization | Description |
-|---------------|-------------|
-| KPI Cards | Key Business Metrics |
-| Bar Charts | Sales Comparison |
-| Donut Charts | Product Distribution |
-| Area Charts | Trend Analysis |
-| Column Charts | Quantity Insights |
-| Map Visualizations | Regional Performance |
-| Slicers | Dynamic Filtering |
+| Visualization     | Description                            |
+| ----------------- | -------------------------------------- |
+| KPI Cards         | Sales, Cost, Profit & Quantity Metrics |
+| Bar Chart         | Quantity by Category                   |
+| Pie Chart         | Brand-wise Sales Distribution          |
+| Map Visualization | State-wise Sales Analysis              |
+| Slicers           | Interactive Filtering                  |
 
 ---
 
@@ -108,73 +111,62 @@ The dataset contains retail business records including:
 
 The main objectives of this project are:
 
-- Analyze retail sales performance
-- Identify profitable products and regions
-- Understand customer order behavior
-- Visualize business trends effectively
-- Build an interactive BI dashboard
+* Analyze technology product sales performance
+* Identify top-performing brands
+* Compare category-wise sales quantity
+* Track profitability and costs
+* Visualize regional sales trends
+* Build an interactive BI dashboard
 
 ---
 
 # 🖼 Dashboard Preview
 
-## 📍 Dashboard Page 1
-![Dashboard Page 1](screenshot1.png)
-
----
-
-## 📍 Dashboard Page 2
-![Dashboard Page 2](screenshot2.png)
-
----
-
-## 📍 Dashboard Page 3
-![Dashboard Page 3](screenshot3.png)
+![Tech Dashboard](screenshot1 (2).png)
 
 ---
 
 # 🔥 Future Enhancements
 
-- Real-time data integration
-- Advanced DAX calculations
-- AI-powered business insights
-- Forecasting and predictive analysis
-- Mobile responsive dashboard design
+* Real-Time Data Integration
+* Advanced DAX Measures
+* Sales Forecasting
+* Predictive Analytics
+* Mobile Responsive Dashboard
 
 ---
 
 # 📌 Project Benefits
 
-✔ Improves business decision-making  
-✔ Provides clear data visualization  
-✔ Helps identify sales opportunities  
-✔ Enhances business performance tracking  
-✔ Simplifies large dataset analysis  
+✔ Supports data-driven decision making
+✔ Provides interactive business insights
+✔ Simplifies sales performance monitoring
+✔ Identifies profitable brands and categories
+✔ Enhances business intelligence reporting
 
 ---
 
 # 👩‍💻 Author
 
-Aarti Patil 
-🎓 AI & Data Science Student  
+## **Aarti Patil**
 
-🔗 GitHub: [aartipatil27](https://github.com/aartipatil27)   
- 📧 Email: aartip2705@gmail.com  
+AI & Data Science Student
+
 ---
 
 # ⭐ GitHub Topics
 
 ```text
 powerbi
-business-intelligence
-dashboard
-retail-sales
+tech-dashboard
 sales-analysis
+business-intelligence
 data-visualization
+dashboard
 analytics
 powerbi-dashboard
-business-analysis
 data-analysis
+business-analysis
 ```
 
 ---
